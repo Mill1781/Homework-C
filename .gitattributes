@@ -2,3 +2,9 @@
 * text=auto
 *.html linguist-vendored
 *.htm linguist-vendored
+*.html linguist-vendored
+*.htm linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.json linguist-vendored
+*.xml linguist-vendored
