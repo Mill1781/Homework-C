@@ -1,0 +1,4 @@
+﻿  HW7_Q1.cpp
+c:\users\eason\onedrive\桌面\ncku\程式作業\hw7\hw7_q1\hw7_q1\hw7_q1.cpp(17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\eason\onedrive\桌面\ncku\程式作業\hw7\hw7_q1\hw7_q1\hw7_q1.cpp(18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  HW7_Q1.vcxproj -> C:\Users\eason\OneDrive\桌面\NCKU\程式作業\HW7\HW7_Q1\Debug\HW7_Q1.exe

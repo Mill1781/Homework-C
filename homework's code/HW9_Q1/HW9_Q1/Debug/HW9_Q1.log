@@ -1,0 +1,3 @@
+﻿  HW9_Q1.cpp
+c:\users\eason\onedrive\桌面\ncku\程式作業\hw9\hw9_q1\hw9_q1\hw9_q1.cpp(27): warning C4477: 'printf' : 格式字串 '%x' 需要 'unsigned int' 類型的引數，但 variadic 引數 3 的類型為 'int *'
+  HW9_Q1.vcxproj -> C:\Users\eason\OneDrive\桌面\NCKU\程式作業\HW9\HW9_Q1\Debug\HW9_Q1.exe

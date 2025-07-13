@@ -1,0 +1,4 @@
+﻿  HW10_Q3.cpp
+c:\users\eason\onedrive\桌面\ncku\程式作業\hw10\hw10_q3\hw10_q3\hw10_q3.cpp(20): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\eason\onedrive\桌面\ncku\程式作業\hw10\hw10_q3\hw10_q3\hw10_q3.cpp(23): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  HW10_Q3.vcxproj -> C:\Users\eason\OneDrive\桌面\NCKU\程式作業\HW10\HW10_Q3\Debug\HW10_Q3.exe

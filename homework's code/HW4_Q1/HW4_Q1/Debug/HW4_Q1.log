@@ -1,0 +1,4 @@
+﻿  HW4_Q1.cpp
+c:\users\eason\onedrive\桌面\mywork\程式作業\第四次作業\hw4_q1\hw4_q1\hw4_q1.cpp(8): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\eason\onedrive\桌面\mywork\程式作業\第四次作業\hw4_q1\hw4_q1\hw4_q1.cpp(9): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  HW4_Q1.vcxproj -> C:\Users\eason\OneDrive\桌面\Mywork\程式作業\第四次作業\HW4_Q1\Debug\HW4_Q1.exe
