@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 *.html linguist-detectable=false
 . code linguist-language=C
+*.UpgradeLog linguist-language=Java
